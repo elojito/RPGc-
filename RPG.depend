@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1406146383 source:g:\progs\rpg\arme.cpp
+	"Arme.h"
+
+1406132502 g:\progs\rpg\arme.h
+	<iostream>
+	<string>
+
+1406132691 source:g:\progs\rpg\armure.cpp
+	"Armure.h"
+
+1406132564 g:\progs\rpg\armure.h
+	<iostream>
+	<string>
+
+1406147273 source:g:\progs\rpg\main.cpp
+	<iostream>
+	<string>
+	"Perso.h"
+
+1406148633 g:\progs\rpg\perso.h
+	<iostream>
+	<string>
+	"Arme.h"
+	"Armure.h"
+	"Magie.h"
+
+1406148149 source:g:\progs\rpg\perso.cpp
+	"Perso.h"
+
+1406207127 source:d:\perso\rpg\arme.cpp
+	"Arme.h"
+
+1406132502 d:\perso\rpg\arme.h
+	<iostream>
+	<string>
+
+1406132691 source:d:\perso\rpg\armure.cpp
+	"Armure.h"
+
+1406132564 d:\perso\rpg\armure.h
+	<iostream>
+	<string>
+
+1406207421 source:d:\perso\rpg\main.cpp
+	<iostream>
+	<string>
+	"Perso.h"
+
+1406206076 d:\perso\rpg\perso.h
+	<iostream>
+	<string>
+	"Arme.h"
+	"Armure.h"
+	"Magie.h"
+
+1406207347 source:d:\perso\rpg\perso.cpp
+	"Perso.h"
+
+1406148941 source:g:\progs\rpg\magie.cpp
+	"Magie.h"
+
+1406148941 g:\progs\rpg\magie.h
+	<iostream>
+	<string>
+
+1406148941 source:d:\perso\rpg\magie.cpp
+	"Magie.h"
+
+1406148941 d:\perso\rpg\magie.h
+	<iostream>
+	<string>
+
